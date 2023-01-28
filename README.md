@@ -1,2 +1,12 @@
 # monster-rolodex
- rolodex of monster with email and name tags
+
+**FULL-DESCRIPTION**
+______________________________________________________________________________________________________________________________________________________________
+
+**ROLODEX OF MONSTERS**
+ 
+ * Monsters inserted through Api
+   
+   * Name Of Monster
+   * Email Of Monster
+   * These Monsters are friendly!
